@@ -4,7 +4,7 @@
 
 Liste des membres :
 - Hadi
-- Xy
+- Xieyu
 - Kenza
 - Arthur
 - Oussama
