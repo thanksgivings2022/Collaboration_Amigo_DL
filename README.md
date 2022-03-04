@@ -10,3 +10,8 @@ Liste des membres :
 - Oussama
 - Yassine
 - Romain
+
+Pense-bete workflow: tous les dossiers sont actuellement sur la branche main, 
+pour ajouter des fichiers et mettre a jour un dossier, il faudrait creer une branche
+avant et merge apres. 
+   
